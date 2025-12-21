@@ -21,7 +21,7 @@ All features are pooled using **Generalized Mean (GeM) pooling**, L2-normalized,
 * **Backbone**: ConvNeXt-Large (via `timm`)
 * **Pooling**: GeM pooling
 * **OT-GFAM**:
-* * **GLPE**:
+* **GLPE**:
 
 ## 📂 Repository Structure
 
@@ -140,5 +140,3 @@ Due to licensing restrictions, datasets are not redistributed, but the publicly 
 
 Download VeRi-776:
 https://www.kaggle.com/datasets/abhyudaya12/veri-vehicle-re-identification-dataset
-* **Broader Impact / Ethical Considerations**
-* veya **Training script + config.yaml açıklaması** ekleyebiliriz
