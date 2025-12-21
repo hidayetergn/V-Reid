@@ -19,9 +19,9 @@ All features are pooled using **Generalized Mean (GeM) pooling**, L2-normalized,
 ## 🧠 Model Architecture
 
 * **Backbone**: ConvNeXt-Large (via `timm`)
-* **Pooling**: GeM pooling
-* **OT-GFAM**:
-* **GLPE**:
+* **Pooling**: Details will be shared along with the source code once the paper is accepted.
+* **OT-GFAM**: Details will be shared along with the source code once the paper is accepted.
+* **GLPE**:    Details will be shared along with the source code once the paper is accepted.
 
 ## 📂 Repository Structure
 
