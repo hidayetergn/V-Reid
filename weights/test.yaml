@@ -1,7 +1,0 @@
-checkpoint_path: ./weights/best_convnext_large_rerank.pth
-test_img_dir: ./data/image_test
-test_txt: ./data/test_list.txt
-
-img_size: [256, 256]
-backbone: convnext_large
-num_queries: 10
