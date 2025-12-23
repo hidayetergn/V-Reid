@@ -121,7 +121,7 @@ Random seeds are fixed where applicable to ensure consistent and reproducible re
 ## 📦 Pretrained Models
 
 The pre-trained model weights used in the experiments are published at the following link: https://drive.google.com/drive/folders/13fLPFAgHe9FcT29Accc9xdqKcQAPPjxo?usp=sharing.
-
+After downloading, please place the model file into the ./weights/ directory.
 
 ## 🧾 Code Availability
 
@@ -136,7 +136,8 @@ For questions or issues related to the code, please open an issue in this reposi
 ## Dataset Accessibility
 
 All experiments were conducted using publicly available vehicle re-identification datasets. Experiments on non-public datasets were conducted with legal permission.
-Due to licensing restrictions, datasets are not redistributed, but the publicly available VeRi-776 dataset should be obtained from its original sources via the link below.
+Due to licensing restrictions, datasets cannot be redistributed; the publicly available VeRi-776 dataset should be obtained from its original sources via the link below.
+After you download it, please place the model file into the ./data/ directory.
 
 Download VeRi-776:
 https://www.kaggle.com/datasets/abhyudaya12/veri-vehicle-re-identification-dataset
