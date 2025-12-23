@@ -120,7 +120,7 @@ Random seeds are fixed where applicable to ensure consistent and reproducible re
 
 ## 📦 Pretrained Models
 
-The pre-trained model weights used in the experiments are published at the following link: xxx.
+The pre-trained model weights used in the experiments are published at the following link: https://drive.google.com/drive/folders/13fLPFAgHe9FcT29Accc9xdqKcQAPPjxo?usp=sharing.
 
 
 ## 🧾 Code Availability
