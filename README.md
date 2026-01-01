@@ -13,7 +13,7 @@ The proposed framework extracts discriminative embeddings by combining:
 * An Operational Transformer with Global-Fusion Attention Module (OT-GFAM)
 * A Global-Local Multi-Part Embedding
 
-All features are pooled using **Generalized Mean (GeM) pooling**, L2-normalized, and concatenated into a single embedding vector for retrieval-based person re-identification.
+All features are pooled using **Generalized Mean (GeM) pooling**, L2-normalized, and concatenated into a single embedding vector for retrieval-based vehicle re-identification.
 
 
 ## 🧠 Model Architecture
